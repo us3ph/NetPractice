@@ -1,4 +1,7 @@
-# Guide to NetPractice
+🖧 NetPractice
+
+is a training project focused on understanding **IP networking**, **subnetting**, **routing**, and **network topology**.  
+It teaches you how devices communicate inside a network and how routers forward packets between networks.
 
 <div id="top"></div>
 
