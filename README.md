@@ -1,16 +1,6 @@
 # Guide to NetPractice
 
-![netpractice logo](img/NetPractice.png)
-
 <div id="top"></div>
-
-## Other Languages
-
-[Korean](README.ko.md)
-<br>
-[French](README.fr.md)
-<br>
-[Spanish](README.es.md)
 
 ## Table of Contents
 
